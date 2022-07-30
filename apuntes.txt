@@ -1,0 +1,33 @@
+1 clase:
+
+Lenguaje compilado
+Potente librería estándar
+Manejo de concurrencia a través de GoRoutines y Channels.
+Diseñado por Google, Ken Thompson (UNIX) parte del equipo de diseño
+Muy popular en aplicaciones CLI y Backend
+Docker, Kubernetes y Terraform están escritos en Go.
+Muy utilizado para escribir malware.
+Según StackOverflow, es el tercer lenguaje mejor pagado a nivel global.
+Según StackOverflow, es la quinta tecnología mas amada por los desarrolladores y la tercera mas deseada para trabajar.
+
+2 clase:
+
+Conocimientos Requeridos
+
+Declaración de variables.
+Condicionales.
+Sintaxis básica.
+Declaración de GoRoutines y Channels.
+Slices y maps.
+Apuntadores.
+¿Qué terminarás sabiendo?
+
+¿Es Go orientado a objetos?
+Cómo aplicar los conceptos de POO en Golang.
+Crear Test Unitarios en Go para aplicar TDD.
+Calcular el Code Coverage de mi proyecto.
+Análisis del Profiling en tus programas.
+Cómo multiplexar mensajes de canales.
+Técnicas para la creación de Worker Pools concurrentes.
+Crear Test Unitarios en Go para aplicar TDD.
+Crear un Job Queue concurrente.
