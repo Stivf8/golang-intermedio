@@ -21,3 +21,10 @@ func NewEmployee(id int, name string, vacation bool) *Employee {
 }
 ...
 e4 := NewEmployee(1, "Name 2", true)
+
+
+
+COMPOSICION 
+
+Go no permite la herencia, go utiliza la composicion.
+la composicion, a diferencia de la herencia, no es una clase hija de… sino que contiene los metodos de las clases indicadas.
