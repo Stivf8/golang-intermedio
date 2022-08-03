@@ -31,3 +31,11 @@ Cómo multiplexar mensajes de canales.
 Técnicas para la creación de Worker Pools concurrentes.
 Crear Test Unitarios en Go para aplicar TDD.
 Crear un Job Queue concurrente.
+
+6 clase:
+
+Structs vs. Clases
+El objetivo de una clase es definir una serie de propiedades y métodos que un objeto puede usar para
+alcanzar diferentes objetivos.
+Go utiliza Structs para generar “nuevos tipos” de datos que se pueden utilizar para cumplir tareas en
+específico.

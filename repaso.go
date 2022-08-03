@@ -5,7 +5,7 @@ import (
 	"strconv"
 )
 
-func main() {
+func main2() {
 
 	var x int
 	x = 8
